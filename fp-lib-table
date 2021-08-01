@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "h3")(type "KiCad")(uri "${KIPRJMOD}/lib/h3.pretty")(options "")(descr ""))
+  (lib (name "tf")(type "KiCad")(uri "${KIPRJMOD}/lib/tf.pretty")(options "")(descr ""))
+  (lib (name "hdmi")(type "KiCad")(uri "${KIPRJMOD}/lib/hdmi.pretty")(options "")(descr ""))
+  (lib (name "ht5007")(type "KiCad")(uri "${KIPRJMOD}/lib/ht5007.pretty")(options "")(descr ""))
+  (lib (name "dlt1120")(type "KiCad")(uri "${KIPRJMOD}/lib/dlt1120.pretty")(options "")(descr ""))
+  (lib (name "sata")(type "KiCad")(uri "${KIPRJMOD}/lib/sata.pretty")(options "")(descr ""))
+  (lib (name "cr2032")(type "KiCad")(uri "${KIPRJMOD}/lib/cr2032.pretty")(options "")(descr ""))
+)
